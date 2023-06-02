@@ -1,0 +1,6 @@
+20230503	15:24:04	01219ec5-7145-4e47-9cd7-625ee1e526f9	Error: Not allowed by CORS
+20230504	23:05:18	65181096-f7b9-4d9b-a37c-7d61d18de83e	ReferenceError: token is not defined
+20230504	23:06:10	b2a87cd5-5a42-41f6-bcc0-0b79eea2c4ee	ReferenceError: token is not defined
+20230504	23:10:52	3c6570b9-3f07-4b8d-bd59-c75f52349a03	ReferenceError: token is not defined
+20230504	23:11:14	0a68d694-3a19-4ac0-8d53-f115e5716a91	ReferenceError: token is not defined
+20230506	15:14:51	9c14e215-853f-4538-b592-1007e18a084e	TypeError: authHeader?.startWith is not a function
